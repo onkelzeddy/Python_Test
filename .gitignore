@@ -1,3 +1,9 @@
 __pycache__/main.cpython-313.pyc
 __pycache__/__init__.cpython-313.pyc
 .vscode/settings.json
+utils/__pycache__/args_validator.cpython-313.pyc
+utils/__pycache__/consts.cpython-313.pyc
+.gitignore
+childe_classes/__pycache__/csv_reader.cpython-313.pyc
+.gitignore
+super_classes/__pycache__/reader.cpython-313.pyc
